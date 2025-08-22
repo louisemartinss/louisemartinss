@@ -6,7 +6,7 @@
 
 - 🏢 SENAC/<strong>ADS</strong>
 
-- 🎯 Estudo programação /<strong>(FrontEnd, BackEnd)</strong>
+- 🎯 Estudo programação <strong>(FrontEnd, BackEnd)</strong>
 
 - 🎨 Hobies: <strong>Música,Desenho,Línguas</strong>
 
