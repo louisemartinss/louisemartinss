@@ -1,5 +1,4 @@
-# [Louise Martins] <img src="https://media.tenor.com/i5qIg0CSlhYAAAAM/pokemon.gif" width="70px"> 
-
+# [Louise Martins] 
 <p align="left">
   
 -  <strong>Louise Martins</strong> de <strong>Recife-PE</strong>
