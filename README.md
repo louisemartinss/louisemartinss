@@ -2,15 +2,13 @@
 
 <p align="left">
   
-- 👩 <strong>Louise Martins</strong> de <strong>Recife-PE</strong>
+-  <strong>Louise Martins</strong> de <strong>Recife-PE</strong>
 
-- 🏢 SENAC/<strong>ADS</strong>
+-  SENAC/<strong>ADS</strong>
 
-- 🎯 Estudo programação <strong>(FrontEnd, BackEnd)</strong>
+-  Estudo programação <strong>(FrontEnd, BackEnd)</strong>
 
-- 🎨 Hobies: <strong>Música,Desenho,Línguas</strong>
-
-- 💬 Línguas: <strong>Inglês,Espanhol</strong>
+-  Línguas: <strong>Inglês,Espanhol</strong>
 </p>
 <p align="center">📫<b>Meus contatos</br></p>
 
