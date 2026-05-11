@@ -1,7 +1,5 @@
-# [Louise Martins] 
+# Louise Martins
 <p align="left">
-  
--  <strong>Louise Martins</strong> de <strong>Recife-PE</strong>
 
 -  SENAC/<strong>ADS</strong>
 
