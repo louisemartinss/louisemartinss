@@ -3,7 +3,7 @@
 
 -  SENAC/<strong>ADS</strong>
 
--  Estudo programação <strong>(FrontEnd, BackEnd)</strong>
+- Programação <strong>(FrontEnd, BackEnd)</strong>
 
 -  Línguas: <strong>Inglês,Espanhol</strong>
 </p>
