@@ -20,13 +20,13 @@ Com interesse em desenvolvimento de aplicações web e desenvolvimento **full st
 - **NutriTEA** — Sistema voltado ao apoio alimentar para pessoas com TEA. (Projeto conceitual sem código)
 - **Sistema ProlEduca** — Projeto desenvolvido com HTML, CSS e JavaScript.
 
-> Em breve, todos os projetos contarão com documentação completa e demonstrações.
+> Todos os projetos contarão com documentação completa e demonstrações.
 
 ---
 
 ## 📬 Contatos
 
-- **LinkedIn:** https://www.linkedin.com/in/seu-link
+- **LinkedIn:** [https://www.linkedin.com/in/seu-link](https://www.linkedin.com/in/louise-martins09/)
 - **E-mail:** louisemartins.dev@gmail.com
 - **Telefone:** +55 (81) 97104-4343
 
