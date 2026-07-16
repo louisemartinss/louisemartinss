@@ -1,13 +1,39 @@
-# Louise Martins
-<p align="left">
+# Me chamo Louise Martins.
 
--  SENAC/<strong>ADS</strong>
+### Desenvolvedora Full Stack em formação
+Estudante de **Análise e Desenvolvimento de Sistemas** no SENAC, Terceiro períodio.
+Com interesse em desenvolvimento de aplicações web e desenvolvimento **full stack**, busco criar soluções organizadas, funcionais e de fácil manutenção para clientes.
 
-- Programação <strong>(FrontEnd, BackEnd)</strong>
+---
 
--  Línguas: <strong>Inglês,Espanhol</strong>
+## Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,mysql,git,github,vscode" />
 </p>
-<p align="center">📫<b>Meus contatos</br></p>
+
+---
+
+## Projetos em destaque
+
+- **Sistema SCRIPTA** — Sistema web para gerenciamento acadêmico *(em equipe)*.
+- **NutriTEA** — Sistema voltado ao apoio alimentar para pessoas com TEA. (Projeto conceitual sem código)
+- **Sistema ProlEduca** — Projeto desenvolvido com HTML, CSS e JavaScript.
+
+> Em breve, todos os projetos contarão com documentação completa e demonstrações.
+
+---
+
+## Contatos
+
+📧 **E-mail:** louisemartins.dev@gmail.com
+
+📱 **Telefone:** +55 (81) 97104-4343
+
+💼 **LinkedIn:** *(adicione aqui o link do seu perfil)*
+
+---
 
 <p align="center">
-<a href = "https://www.linkedin.com/in/SEU_LINKEDIN_AQUI-4b872715a/" target="_blank"><img align="center" src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
+  Obrigada pela visita! 😊
+</p>
