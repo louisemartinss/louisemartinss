@@ -17,7 +17,7 @@ Com interesse em desenvolvimento de aplicações web e desenvolvimento **full st
 ## Projetos em destaque
 
 - **Sistema SCRIPTA** — Sistema web para gerenciamento acadêmico *(em equipe)*.
-- **Sistema ProlEduca** — Projeto desenvolvido com HTML, CSS e JavaScript.
+- **Sistema ProlEduca** — Reformulação FrontEnd do site ProlEduca.
 
 > Todos os projetos contarão com documentação completa e demonstrações.
 
