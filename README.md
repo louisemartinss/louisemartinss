@@ -1,4 +1,4 @@
-# Me chamo Louise Martins.
+# Louise Martins.
 
 ### Desenvolvedora Full Stack em formação
 Estudante de **Análise e Desenvolvimento de Sistemas** no SENAC, Terceiro períodio.
@@ -6,10 +6,10 @@ Com interesse em desenvolvimento de aplicações web e desenvolvimento **full st
 
 ---
 
-## Tecnologias
+## 🛠 Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,mysql,git,github,vscode" height="40"/>
 </p>
 
 ---
@@ -24,16 +24,10 @@ Com interesse em desenvolvimento de aplicações web e desenvolvimento **full st
 
 ---
 
-## Contatos
+## 📬 Contatos
 
-📧 **E-mail:** louisemartins.dev@gmail.com
-
-📱 **Telefone:** +55 (81) 97104-4343
-
-💼 **LinkedIn:** *(adicione aqui o link do seu perfil)*
+- **LinkedIn:** https://www.linkedin.com/in/seu-link
+- **E-mail:** louisemartins.dev@gmail.com
+- **Telefone:** +55 (81) 97104-4343
 
 ---
-
-<p align="center">
-  Obrigada pela visita! 😊
-</p>
