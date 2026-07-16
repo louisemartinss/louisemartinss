@@ -24,7 +24,7 @@ Com interesse em desenvolvimento de aplicações web e desenvolvimento **full st
 
 ---
 
-## 📬 Contatos
+## Contatos
 
 - **LinkedIn:** [https://www.linkedin.com/louisemartins09](https://www.linkedin.com/in/louise-martins09/)
 - **E-mail:** louisemartins.dev@gmail.com
