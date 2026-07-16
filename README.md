@@ -26,7 +26,7 @@ Com interesse em desenvolvimento de aplicações web e desenvolvimento **full st
 
 ## 📬 Contatos
 
-- **LinkedIn:** [https://www.linkedin.com/in/seu-link](https://www.linkedin.com/in/louise-martins09/)
+- **LinkedIn:** [https://www.linkedin.com/louisemartins09](https://www.linkedin.com/in/louise-martins09/)
 - **E-mail:** louisemartins.dev@gmail.com
 - **Telefone:** +55 (81) 97104-4343
 
