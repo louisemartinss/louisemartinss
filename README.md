@@ -17,7 +17,6 @@ Com interesse em desenvolvimento de aplicações web e desenvolvimento **full st
 ## Projetos em destaque
 
 - **Sistema SCRIPTA** — Sistema web para gerenciamento acadêmico *(em equipe)*.
-- **NutriTEA** — Sistema voltado ao apoio alimentar para pessoas com TEA. (Projeto conceitual sem código)
 - **Sistema ProlEduca** — Projeto desenvolvido com HTML, CSS e JavaScript.
 
 > Todos os projetos contarão com documentação completa e demonstrações.
