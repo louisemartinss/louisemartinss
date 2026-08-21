@@ -1,6 +1,5 @@
 # Louise Martins.
 
-### Desenvolvedora Full Stack em formação
 
 **Análise e Desenvolvimento de Sistemas** SENAC, 
 
