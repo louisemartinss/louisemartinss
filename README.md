@@ -22,7 +22,7 @@ Desenvolvimento **full stack** com foco em Front-End.
 - **Sistema SCRIPTA** — Sistema web para gerenciamento acadêmico *(em equipe)*.
 - **Sistema ProlEduca** — Reformulação FrontEnd do site ProlEduca.
 
-> Todos os projetos contarão com documentação completa e imagens nos seus respectivos repositório.
+> Todos os projetos contarão com documentação completa e imagens nos seus respectivos repositórios.
 
 ---
 
