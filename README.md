@@ -3,7 +3,7 @@
 
 **Análise e Desenvolvimento de Sistemas** SENAC, 
 
-Terceiro períodio.
+Terceiro período.
 
 Desenvolvimento **full stack** com foco em Front-End.
 
