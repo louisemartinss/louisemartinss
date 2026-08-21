@@ -7,7 +7,7 @@ Desenvolvimento **full stack** com foco em Front-End.
 
 ---
 
-## Tecnologias
+### Tecnologias
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,mysql,git,github,vscode" height="40"/>
@@ -15,16 +15,16 @@ Desenvolvimento **full stack** com foco em Front-End.
 
 ---
 
-## Projetos em destaque
+### Projetos em destaque
 
 - **Sistema SCRIPTA** — Sistema web para gerenciamento acadêmico *(em equipe)*.
 - **Sistema ProlEduca** — Reformulação FrontEnd do site ProlEduca.
 
-> Todos os projetos contarão com documentação completa e demonstrações.
+> Todos os projetos contarão com documentação completa e imagens nos seus respectivos repositório.
 
 ---
 
-## Contatos
+### Contatos
 
 - **LinkedIn:** [https://www.linkedin.com/louisemartins09](https://www.linkedin.com/in/louise-martins09/)
 - **E-mail:** louisemartins.dev@gmail.com
