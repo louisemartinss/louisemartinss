@@ -1,8 +1,11 @@
 # Louise Martins.
 
 ### Desenvolvedora Full Stack em formação
+
 **Análise e Desenvolvimento de Sistemas** SENAC, 
+
 Terceiro períodio.
+
 Desenvolvimento **full stack** com foco em Front-End.
 
 ---
@@ -10,7 +13,7 @@ Desenvolvimento **full stack** com foco em Front-End.
 ### Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,mysql,git,github,vscode" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode" height="40"/>
 </p>
 
 ---
