@@ -1,8 +1,9 @@
 # Louise Martins.
 
 ### Desenvolvedora Full Stack em formação
-Estudante de **Análise e Desenvolvimento de Sistemas** no SENAC, Terceiro períodio.
-Com interesse em desenvolvimento de aplicações web e desenvolvimento **full stack**, busco criar soluções organizadas, funcionais e de fácil manutenção para clientes.
+**Análise e Desenvolvimento de Sistemas** SENAC,
+Terceiro períodio.
+Desenvolvimento **full stack** com foco em Front-End.
 
 ---
 
