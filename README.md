@@ -7,7 +7,7 @@ Desenvolvimento **full stack** com foco em Front-End.
 
 ---
 
-## 🛠 Tecnologias
+## Tecnologias
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,mysql,git,github,vscode" height="40"/>
