@@ -68,3 +68,5 @@ Sistema web desenvolvido em equipe para organizar, acompanhar e avaliar os Proje
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/louisemartinss)
 
 Telefone: +55 (81) 97104-4343
+
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-6D28D9?style=for-the-badge&logo=githubpages&logoColor=white)](https://louisemartinss.github.io/)
