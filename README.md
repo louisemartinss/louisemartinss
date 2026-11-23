@@ -15,6 +15,7 @@ Desenvolvimento **full stack** com foco em Front-End.
   <img alt="HTML5" title="HTML5" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS3" title="CSS3" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" title="TypeScript" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img alt="React" title="React" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img alt="Python" title="Python" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="MySQL" title="MySQL" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
@@ -41,6 +42,8 @@ Aplicativo de cuidado compartilhado que ajuda pessoas idosas a acompanhar consul
 ### ProlEduca
 
 Reformulação do front-end do site ProlEduca.
+
+[Repositório do ProlEduca](https://github.com/louisemartinss/proleduca)
 
 ---
 
