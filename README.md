@@ -64,6 +64,13 @@ Sistema web desenvolvido em equipe para organizar, acompanhar e avaliar os Proje
 
 ---
 
+## Currículos
+
+[![Currículo UX/UI](https://img.shields.io/badge/Curr%C3%ADculo-UX%2FUI-7C3AED?style=for-the-badge)](https://github.com/louisemartinss/louisemartinss/blob/main/louise-martins-curriculo-ux.pdf)
+[![Currículo Desenvolvimento](https://img.shields.io/badge/Curr%C3%ADculo-Desenvolvimento-2563EB?style=for-the-badge)](https://github.com/louisemartinss/louisemartinss/blob/main/louise-martins-curriculo-dev.pdf)
+
+---
+
 ## Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louisemartins.dev@gmail.com)
